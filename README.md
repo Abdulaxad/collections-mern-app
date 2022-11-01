@@ -3,7 +3,7 @@
 
 #Created using __ReactJS, NodeJS, ExpressJS and MondoDB__
 **** 
-[LIVE_DEMO](https://personal-collections-intern.netlify.app/posts)
+[LIVE_DEMO](https://collections-intern-task.netlify.app/posts)
 
 
 Backend deployed to Heroku
